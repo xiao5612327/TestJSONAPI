@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sunset at the Beach",
+    "description": "A beautiful sunset over the Pacific Ocean.",
+    "imageUrl": "https://picsum.photos/id/1015/400/300"
+  },
+  {
+    "title": "Mountain Hike",
+    "description": "Reaching the summit after a long climb.",
+    "imageUrl": "https://picsum.photos/id/1002/400/300"
+  },
+  {
+    "title": "City Life",
+    "description": "The bustling downtown in the evening.",
+    "imageUrl": "https://picsum.photos/id/1011/400/300"
+  },
+  {
+    "title": "Forest Path",
+    "description": "A quiet trail through the woods.",
+    "imageUrl": "https://picsum.photos/id/1043/400/300"
+  }
+]
+
