@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "iPhone 14 Pro", "price": 999.99 },
+  { "id": 2, "name": "MacBook Air M2", "price": 1199.00 },
+  { "id": 3, "name": "Apple Watch Series 8", "price": 399.00 },
+  { "id": 4, "name": "iPad Pro 11\"", "price": 799.00 },
+  { "id": 5, "name": "AirPods Pro 2", "price": 249.00 },
+  { "id": 6, "name": "Magic Keyboard", "price": 99.99 },
+  { "id": 7, "name": "HomePod Mini", "price": 99.00 },
+  { "id": 8, "name": "iMac 24\"", "price": 1299.00 },
+  { "id": 9, "name": "Apple TV 4K", "price": 179.00 },
+  { "id": 10, "name": "Apple Pencil 2", "price": 129.00 },
+  { "id": 11, "name": "Studio Display", "price": 1599.00 },
+  { "id": 12, "name": "iPhone SE", "price": 429.00 },
+  { "id": 13, "name": "Beats Fit Pro", "price": 199.00 },
+  { "id": 14, "name": "Mac Mini M2", "price": 699.00 },
+  { "id": 15, "name": "Apple Watch Ultra", "price": 799.00 },
+  { "id": 16, "name": "iPad Mini", "price": 499.00 },
+  { "id": 17, "name": "Smart Folio Case", "price": 79.00 },
+  { "id": 18, "name": "Thunderbolt 4 Cable", "price": 129.00 },
+  { "id": 19, "name": "AirTag (4-pack)", "price": 99.00 },
+  { "id": 20, "name": "iPhone 15 Pro Max", "price": 1199.00 }
+]
