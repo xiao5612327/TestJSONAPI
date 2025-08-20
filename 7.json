@@ -1,0 +1,18 @@
+{
+  "id": "7",
+  "name": "Store 7",
+  "description": "This is store 7 description.",
+  "cover_img_url": "https://picsum.photos/seed/store7/400/200",
+  "phone_number": "+1-408-555-1007",
+  "status": "closed",
+  "status_type": "inactive",
+  "delivery_fee": 33,
+  "tags": [
+    "tag7",
+    "food",
+    "grocery"
+  ],
+  "address": {
+    "printable_address": "107 Main St, City 7, CA"
+  }
+}

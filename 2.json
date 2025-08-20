@@ -1,0 +1,18 @@
+{
+  "id": "2",
+  "name": "Store 2",
+  "description": "This is store 2 description.",
+  "cover_img_url": "https://picsum.photos/seed/store2/400/200",
+  "phone_number": "+1-408-555-1002",
+  "status": "open",
+  "status_type": "active",
+  "delivery_fee": 153,
+  "tags": [
+    "tag2",
+    "food",
+    "grocery"
+  ],
+  "address": {
+    "printable_address": "102 Main St, City 2, CA"
+  }
+}

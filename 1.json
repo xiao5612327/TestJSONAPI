@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "name": "Store 1",
+  "description": "This is store 1 description.",
+  "cover_img_url": "https://picsum.photos/seed/store1/400/200",
+  "phone_number": "+1-408-555-1001",
+  "status": "closed",
+  "status_type": "inactive",
+  "delivery_fee": 123,
+  "tags": [
+    "tag1",
+    "food",
+    "grocery"
+  ],
+  "address": {
+    "printable_address": "101 Main St, City 1, CA"
+  }
+}

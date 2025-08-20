@@ -1,0 +1,18 @@
+{
+  "id": "10",
+  "name": "Store 10",
+  "description": "This is store 10 description.",
+  "cover_img_url": "https://picsum.photos/seed/store10/400/200",
+  "phone_number": "+1-408-555-1010",
+  "status": "open",
+  "status_type": "active",
+  "delivery_fee": 86,
+  "tags": [
+    "tag10",
+    "food",
+    "grocery"
+  ],
+  "address": {
+    "printable_address": "110 Main St, City 10, CA"
+  }
+}

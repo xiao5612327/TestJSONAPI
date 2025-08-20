@@ -1,0 +1,18 @@
+{
+  "id": "6",
+  "name": "Store 6",
+  "description": "This is store 6 description.",
+  "cover_img_url": "https://picsum.photos/seed/store6/400/200",
+  "phone_number": "+1-408-555-1006",
+  "status": "open",
+  "status_type": "active",
+  "delivery_fee": 241,
+  "tags": [
+    "tag6",
+    "food",
+    "grocery"
+  ],
+  "address": {
+    "printable_address": "106 Main St, City 6, CA"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4",
+  "name": "Store 4",
+  "description": "This is store 4 description.",
+  "cover_img_url": "https://picsum.photos/seed/store4/400/200",
+  "phone_number": "+1-408-555-1004",
+  "status": "open",
+  "status_type": "active",
+  "delivery_fee": 90,
+  "tags": [
+    "tag4",
+    "food",
+    "grocery"
+  ],
+  "address": {
+    "printable_address": "104 Main St, City 4, CA"
+  }
+}
