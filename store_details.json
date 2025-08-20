@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Store 1",
+    "description": "This is store 1 description.",
+    "cover_img_url": "https://picsum.photos/seed/store1/400/200",
+    "phone_number": "+1-408-555-1001",
+    "status": "closed",
+    "status_type": "inactive",
+    "delivery_fee": 123,
+    "tags": [
+      "tag1",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "101 Main St, City 1, CA"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Store 2",
+    "description": "This is store 2 description.",
+    "cover_img_url": "https://picsum.photos/seed/store2/400/200",
+    "phone_number": "+1-408-555-1002",
+    "status": "open",
+    "status_type": "active",
+    "delivery_fee": 153,
+    "tags": [
+      "tag2",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "102 Main St, City 2, CA"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Store 3",
+    "description": "This is store 3 description.",
+    "cover_img_url": "https://picsum.photos/seed/store3/400/200",
+    "phone_number": "+1-408-555-1003",
+    "status": "closed",
+    "status_type": "inactive",
+    "delivery_fee": 484,
+    "tags": [
+      "tag3",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "103 Main St, City 3, CA"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Store 4",
+    "description": "This is store 4 description.",
+    "cover_img_url": "https://picsum.photos/seed/store4/400/200",
+    "phone_number": "+1-408-555-1004",
+    "status": "open",
+    "status_type": "active",
+    "delivery_fee": 90,
+    "tags": [
+      "tag4",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "104 Main St, City 4, CA"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Store 5",
+    "description": "This is store 5 description.",
+    "cover_img_url": "https://picsum.photos/seed/store5/400/200",
+    "phone_number": "+1-408-555-1005",
+    "status": "closed",
+    "status_type": "inactive",
+    "delivery_fee": 212,
+    "tags": [
+      "tag5",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "105 Main St, City 5, CA"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Store 6",
+    "description": "This is store 6 description.",
+    "cover_img_url": "https://picsum.photos/seed/store6/400/200",
+    "phone_number": "+1-408-555-1006",
+    "status": "open",
+    "status_type": "active",
+    "delivery_fee": 241,
+    "tags": [
+      "tag6",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "106 Main St, City 6, CA"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Store 7",
+    "description": "This is store 7 description.",
+    "cover_img_url": "https://picsum.photos/seed/store7/400/200",
+    "phone_number": "+1-408-555-1007",
+    "status": "closed",
+    "status_type": "inactive",
+    "delivery_fee": 33,
+    "tags": [
+      "tag7",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "107 Main St, City 7, CA"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Store 8",
+    "description": "This is store 8 description.",
+    "cover_img_url": "https://picsum.photos/seed/store8/400/200",
+    "phone_number": "+1-408-555-1008",
+    "status": "open",
+    "status_type": "active",
+    "delivery_fee": 54,
+    "tags": [
+      "tag8",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "108 Main St, City 8, CA"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Store 9",
+    "description": "This is store 9 description.",
+    "cover_img_url": "https://picsum.photos/seed/store9/400/200",
+    "phone_number": "+1-408-555-1009",
+    "status": "closed",
+    "status_type": "inactive",
+    "delivery_fee": 66,
+    "tags": [
+      "tag9",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "109 Main St, City 9, CA"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Store 10",
+    "description": "This is store 10 description.",
+    "cover_img_url": "https://picsum.photos/seed/store10/400/200",
+    "phone_number": "+1-408-555-1010",
+    "status": "open",
+    "status_type": "active",
+    "delivery_fee": 86,
+    "tags": [
+      "tag10",
+      "food",
+      "grocery"
+    ],
+    "address": {
+      "printable_address": "110 Main St, City 10, CA"
+    }
+  }
+]
