@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Feed Store 1",
+    "description": "Feed description for store 1",
+    "cover_img_url": "https://picsum.photos/seed/feed1/200/100",
+    "status": "closed",
+    "delivery_fee": "223"
+  },
+  {
+    "id": "2",
+    "name": "Feed Store 2",
+    "description": "Feed description for store 2",
+    "cover_img_url": "https://picsum.photos/seed/feed2/200/100",
+    "status": "open",
+    "delivery_fee": "339"
+  },
+  {
+    "id": "3",
+    "name": "Feed Store 3",
+    "description": "Feed description for store 3",
+    "cover_img_url": "https://picsum.photos/seed/feed3/200/100",
+    "status": "closed",
+    "delivery_fee": "409"
+  },
+  {
+    "id": "4",
+    "name": "Feed Store 4",
+    "description": "Feed description for store 4",
+    "cover_img_url": "https://picsum.photos/seed/feed4/200/100",
+    "status": "open",
+    "delivery_fee": "238"
+  },
+  {
+    "id": "5",
+    "name": "Feed Store 5",
+    "description": "Feed description for store 5",
+    "cover_img_url": "https://picsum.photos/seed/feed5/200/100",
+    "status": "closed",
+    "delivery_fee": "248"
+  },
+  {
+    "id": "6",
+    "name": "Feed Store 6",
+    "description": "Feed description for store 6",
+    "cover_img_url": "https://picsum.photos/seed/feed6/200/100",
+    "status": "open",
+    "delivery_fee": "471"
+  },
+  {
+    "id": "7",
+    "name": "Feed Store 7",
+    "description": "Feed description for store 7",
+    "cover_img_url": "https://picsum.photos/seed/feed7/200/100",
+    "status": "closed",
+    "delivery_fee": "329"
+  },
+  {
+    "id": "8",
+    "name": "Feed Store 8",
+    "description": "Feed description for store 8",
+    "cover_img_url": "https://picsum.photos/seed/feed8/200/100",
+    "status": "open",
+    "delivery_fee": "60"
+  },
+  {
+    "id": "9",
+    "name": "Feed Store 9",
+    "description": "Feed description for store 9",
+    "cover_img_url": "https://picsum.photos/seed/feed9/200/100",
+    "status": "closed",
+    "delivery_fee": "405"
+  },
+  {
+    "id": "10",
+    "name": "Feed Store 10",
+    "description": "Feed description for store 10",
+    "cover_img_url": "https://picsum.photos/seed/feed10/200/100",
+    "status": "open",
+    "delivery_fee": "251"
+  }
+]
