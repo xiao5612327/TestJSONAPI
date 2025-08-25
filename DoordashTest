@@ -1,0 +1,17 @@
+{
+  "id": "12345",
+  "items": [
+    {
+      "name": "Chicken and Fries",
+      "price": 10
+    },
+    {
+      "name": "Samosas",
+      "price": 5
+    },
+    {
+      "name": "Soda",
+      "price": null
+    }
+  ]
+}
